@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SandwichMaker", "SandwichMaker\SandwichMaker.csproj", "{6B4652B2-EDC5-477D-8AA6-97DD1D1BCCCF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6B4652B2-EDC5-477D-8AA6-97DD1D1BCCCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B4652B2-EDC5-477D-8AA6-97DD1D1BCCCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B4652B2-EDC5-477D-8AA6-97DD1D1BCCCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B4652B2-EDC5-477D-8AA6-97DD1D1BCCCF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

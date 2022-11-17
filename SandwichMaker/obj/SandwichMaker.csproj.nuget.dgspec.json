@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/damienpelaez/Library/Mobile Documents/com~apple~CloudDocs/Ecole/C#/SandwichMaker/SandwichMaker/SandwichMaker.csproj": {}
+  },
+  "projects": {
+    "/Users/damienpelaez/Library/Mobile Documents/com~apple~CloudDocs/Ecole/C#/SandwichMaker/SandwichMaker/SandwichMaker.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/damienpelaez/Library/Mobile Documents/com~apple~CloudDocs/Ecole/C#/SandwichMaker/SandwichMaker/SandwichMaker.csproj",
+        "projectName": "SandwichMaker",
+        "projectPath": "/Users/damienpelaez/Library/Mobile Documents/com~apple~CloudDocs/Ecole/C#/SandwichMaker/SandwichMaker/SandwichMaker.csproj",
+        "packagesPath": "/Users/damienpelaez/.nuget/packages/",
+        "outputPath": "/Users/damienpelaez/Library/Mobile Documents/com~apple~CloudDocs/Ecole/C#/SandwichMaker/SandwichMaker/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/damienpelaez/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/Users/damienpelaez/.dotnet/sdk/6.0.400/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

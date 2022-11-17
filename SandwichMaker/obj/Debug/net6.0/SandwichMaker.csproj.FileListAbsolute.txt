@@ -1,0 +1,15 @@
+/Users/damienpelaez/Library/Mobile Documents/com~apple~CloudDocs/Ecole/C#/SandwichMaker/SandwichMaker/bin/Debug/net6.0/SandwichMaker
+/Users/damienpelaez/Library/Mobile Documents/com~apple~CloudDocs/Ecole/C#/SandwichMaker/SandwichMaker/bin/Debug/net6.0/SandwichMaker.deps.json
+/Users/damienpelaez/Library/Mobile Documents/com~apple~CloudDocs/Ecole/C#/SandwichMaker/SandwichMaker/bin/Debug/net6.0/SandwichMaker.runtimeconfig.json
+/Users/damienpelaez/Library/Mobile Documents/com~apple~CloudDocs/Ecole/C#/SandwichMaker/SandwichMaker/bin/Debug/net6.0/SandwichMaker.dll
+/Users/damienpelaez/Library/Mobile Documents/com~apple~CloudDocs/Ecole/C#/SandwichMaker/SandwichMaker/bin/Debug/net6.0/SandwichMaker.pdb
+/Users/damienpelaez/Library/Mobile Documents/com~apple~CloudDocs/Ecole/C#/SandwichMaker/SandwichMaker/obj/Debug/net6.0/SandwichMaker.csproj.AssemblyReference.cache
+/Users/damienpelaez/Library/Mobile Documents/com~apple~CloudDocs/Ecole/C#/SandwichMaker/SandwichMaker/obj/Debug/net6.0/SandwichMaker.GeneratedMSBuildEditorConfig.editorconfig
+/Users/damienpelaez/Library/Mobile Documents/com~apple~CloudDocs/Ecole/C#/SandwichMaker/SandwichMaker/obj/Debug/net6.0/SandwichMaker.AssemblyInfoInputs.cache
+/Users/damienpelaez/Library/Mobile Documents/com~apple~CloudDocs/Ecole/C#/SandwichMaker/SandwichMaker/obj/Debug/net6.0/SandwichMaker.AssemblyInfo.cs
+/Users/damienpelaez/Library/Mobile Documents/com~apple~CloudDocs/Ecole/C#/SandwichMaker/SandwichMaker/obj/Debug/net6.0/SandwichMaker.csproj.CoreCompileInputs.cache
+/Users/damienpelaez/Library/Mobile Documents/com~apple~CloudDocs/Ecole/C#/SandwichMaker/SandwichMaker/obj/Debug/net6.0/SandwichMaker.dll
+/Users/damienpelaez/Library/Mobile Documents/com~apple~CloudDocs/Ecole/C#/SandwichMaker/SandwichMaker/obj/Debug/net6.0/refint/SandwichMaker.dll
+/Users/damienpelaez/Library/Mobile Documents/com~apple~CloudDocs/Ecole/C#/SandwichMaker/SandwichMaker/obj/Debug/net6.0/SandwichMaker.pdb
+/Users/damienpelaez/Library/Mobile Documents/com~apple~CloudDocs/Ecole/C#/SandwichMaker/SandwichMaker/obj/Debug/net6.0/SandwichMaker.genruntimeconfig.cache
+/Users/damienpelaez/Library/Mobile Documents/com~apple~CloudDocs/Ecole/C#/SandwichMaker/SandwichMaker/obj/Debug/net6.0/ref/SandwichMaker.dll
